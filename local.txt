@@ -43,3 +43,4 @@
 .youtubetool.com
 .youversion.com
 .t66y.com
+.googleadservices.com
