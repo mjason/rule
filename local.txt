@@ -44,3 +44,4 @@
 .youversion.com
 .t66y.com
 .googleadservices.com
+.googleapis.cn
